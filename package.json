@@ -1,0 +1,14 @@
+{
+  "name": "package-challenge",
+  "version": "1.0.0",
+  "description": "Michael Suwanto Package Challenge Mobiquity",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "jest"
+  },
+  "author": "Michael Suwanto",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
